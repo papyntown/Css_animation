@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+.grid{
+    display: grid;
+    grid-template-columns: 50vw 50vw;
+}
+.box
+{
+   background-color: black;
+   margin: 10px;
+   height: 33%;
+   color: white;
+   font-family: Calibri;
+   letter-spacing: 2px;
+   display: flex;
+   flex-direction: column;  
+}
+
+
+h1{
+    text-align: center;
+    background-color: transparent;
+   
+}
